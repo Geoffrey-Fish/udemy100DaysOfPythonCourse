@@ -1,0 +1,7 @@
+
+2.1.22 First Entry:
+
+Well like mentioned in the start text, I started this course.
+Helpfull is the site app.codingrooms.com
+This is a testing site for the various projects.
+even if i like to use Vim, I should paste my stuff in there for better debugging, I think.
